@@ -1,0 +1,15 @@
+{
+  "name": "web-logger",
+  "version": "1.0.0",
+  "description": "auto save your web exploratoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "writefile": "^0.2.8"
+  }
+}
