@@ -4,7 +4,7 @@
 
 // Create a tab in the devtools area
 //
-chrome.devtools.panels.create("WebLogger", "assets/images/toast.png", "dev-tools/panel.html", function (panel) {
+chrome.devtools.panels.create("WebLogger", "assets/images/icon128.png", "dev-tools/options/options.html", function (panel) {
     console.log('web logger started');
     // reset error msg
     localStorage.error = "";

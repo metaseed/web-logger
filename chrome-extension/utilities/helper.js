@@ -9,7 +9,6 @@ function elem(elem) {
 // dump debug
 function deb(val) {
     return;
-
     // XXX: something fishy below: broke on latest Chrome!
 
     if (window.chrome) {
