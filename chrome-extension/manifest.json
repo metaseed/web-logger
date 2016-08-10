@@ -12,7 +12,8 @@
         "persistent": false
     },
     "icons": {
-        "128": "assets/images/icon.png"
+        "16": "assets/images/icon16.png",
+        "128": "assets/images/icon128.png"
     },
     "permissions": [
         "tabs",
